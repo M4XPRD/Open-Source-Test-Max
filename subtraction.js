@@ -1,3 +1,3 @@
-const multiplication = (a, b) => a - b1;
+const multiplication = (a, b) => a - b;
 
 console.log(multiplication(2, 2))
