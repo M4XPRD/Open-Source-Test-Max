@@ -1,3 +1,3 @@
-const multiplication = (a, b) => a - b;
+const subtraction = (a, b) => a - b;
 
-console.log(multiplication(2, 2))
+console.log(subtraction(2, 2))
